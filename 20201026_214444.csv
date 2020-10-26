@@ -1,0 +1,48 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS,Chrome 86.0.4240.111,,,2020-10-26 21:45:04,2020-10-26 21:51:14,6m - 10.733s,FAILED
+,,,,,,,
+Test Cases/DangNhap,Chrome 86.0.4240.111,,,2020-10-26 21:45:04,2020-10-26 21:46:02,57.254s,FAILED
+"name = ""Automation""",Chrome 86.0.4240.111,,,2020-10-26 21:45:05,2020-10-26 21:45:05,0.002s,PASSED
+"openBrowser("""")",Chrome 86.0.4240.111,,,2020-10-26 21:45:05,2020-10-26 21:45:43,37.723s,PASSED
+"navigateToUrl(""https://online.hcmue.edu.vn/"")",Chrome 86.0.4240.111,,,2020-10-26 21:45:43,2020-10-26 21:45:51,8.630s,PASSED
+"click(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/a_ng nhp""))",Chrome 86.0.4240.111,,,2020-10-26 21:45:51,2020-10-26 21:45:53,1.291s,PASSED
+"click(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/input_Tn ng nhp_ctl00ContentPlaceHolder1ctl_537cb7""))",Chrome 86.0.4240.111,,,2020-10-26 21:45:53,2020-10-26 21:45:56,2.950s,PASSED
+"setText(findTestObject(""Page_UP Portal  HoChiMinh University of Pedagogy/input_Tn ng nhp_ctl00ContentPlaceHolder1ctl_537cb7""), username)",Chrome 86.0.4240.111,,,2020-10-26 21:45:56,2020-10-26 21:45:57,1.303s,PASSED
+"click(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/td""))",Chrome 86.0.4240.111,,,2020-10-26 21:45:57,2020-10-26 21:45:59,1.622s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/input_Mt m_ctl00ContentPlaceHolder1ctl00ctl_4544f5""), password)",Chrome 86.0.4240.111,,,2020-10-26 21:45:59,2020-10-26 21:46:02,3.014s,FAILED
+,,,,,,,
+Test Cases/DangNhap,Chrome 86.0.4240.111,,,2020-10-26 21:46:02,2020-10-26 21:47:24,1m - 22.435s,FAILED
+"name = ""Automation""",Chrome 86.0.4240.111,,,2020-10-26 21:46:02,2020-10-26 21:46:02,0.001s,PASSED
+"openBrowser("""")",Chrome 86.0.4240.111,,,2020-10-26 21:46:02,2020-10-26 21:46:23,20.993s,PASSED
+"navigateToUrl(""https://online.hcmue.edu.vn/"")",Chrome 86.0.4240.111,,,2020-10-26 21:46:23,2020-10-26 21:46:28,5.237s,PASSED
+"click(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/a_ng nhp""))",Chrome 86.0.4240.111,,,2020-10-26 21:46:28,2020-10-26 21:46:28,0.404s,PASSED
+"click(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/input_Tn ng nhp_ctl00ContentPlaceHolder1ctl_537cb7""))",Chrome 86.0.4240.111,,,2020-10-26 21:46:28,2020-10-26 21:46:29,0.771s,PASSED
+"setText(findTestObject(""Page_UP Portal  HoChiMinh University of Pedagogy/input_Tn ng nhp_ctl00ContentPlaceHolder1ctl_537cb7""), username)",Chrome 86.0.4240.111,,,2020-10-26 21:46:29,2020-10-26 21:46:30,0.726s,PASSED
+"click(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/td""))",Chrome 86.0.4240.111,,,2020-10-26 21:46:30,2020-10-26 21:46:30,0.387s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/input_Mt m_ctl00ContentPlaceHolder1ctl00ctl_4544f5""), password)",Chrome 86.0.4240.111,,,2020-10-26 21:46:30,2020-10-26 21:47:24,53.881s,FAILED
+,,,,,,,
+Test Cases/Hoidap,Chrome 86.0.4240.111,,,2020-10-26 21:47:24,2020-10-26 21:48:54,1m - 29.749s,FAILED
+"openBrowser("""")",Chrome 86.0.4240.111,,,2020-10-26 21:47:25,2020-10-26 21:47:53,27.412s,PASSED
+"navigateToUrl(""https://online.hcmue.edu.vn/"")",Chrome 86.0.4240.111,,,2020-10-26 21:47:53,2020-10-26 21:48:15,22.682s,PASSED
+"click(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/a_Tip nhn thng tin SV""))",Chrome 86.0.4240.111,,,2020-10-26 21:48:15,2020-10-26 21:48:20,4.731s,PASSED
+"click(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/a_voy""))",Chrome 86.0.4240.111,,,2020-10-26 21:48:20,2020-10-26 21:48:21,0.749s,PASSED
+"click(findTestObject(""Page_Nhn thng tin ca sinh vin/input__quantumWizTextinputPaperinputInput e_e1b7c3""))",Chrome 86.0.4240.111,,,2020-10-26 21:48:21,2020-10-26 21:48:54,33.153s,FAILED
+,,,,,,,
+Test Cases/Thongbao,Chrome 86.0.4240.111,,,2020-10-26 21:48:54,2020-10-26 21:50:03,1m - 9.151s,FAILED
+"openBrowser("""")",Chrome 86.0.4240.111,,,2020-10-26 21:48:54,2020-10-26 21:49:23,28.507s,PASSED
+"navigateToUrl(""https://online.hcmue.edu.vn/"")",Chrome 86.0.4240.111,,,2020-10-26 21:49:23,2020-10-26 21:49:25,2.108s,PASSED
+"click(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/a_Thng bo chung""))",Chrome 86.0.4240.111,,,2020-10-26 21:49:25,2020-10-26 21:49:28,3.067s,PASSED
+"click(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/a_Chi tit""))",Chrome 86.0.4240.111,,,2020-10-26 21:49:28,2020-10-26 21:49:29,1.096s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/span_Cn c vo k hoch 304KH-HSP ngy 31082020 _6deeec""), ""Căn cứ vào kế hoạch 304/KH-ĐHSP ngày 31/08/2020 về việc xét và công nhận tốt nghiệp cho sinh viên hệ chính quy trình độ đại học đợt tháng 10/2020,"")",Chrome 86.0.4240.111,,,2020-10-26 21:49:29,2020-10-26 21:50:03,34.007s,FAILED
+,,,,,,,
+Test Cases/Chuongtrinhdaotao,Chrome 86.0.4240.111,,,2020-10-26 21:50:04,2020-10-26 21:50:33,29.444s,PASSED
+"openBrowser("""")",Chrome 86.0.4240.111,,,2020-10-26 21:50:04,2020-10-26 21:50:19,14.949s,PASSED
+"navigateToUrl(""https://online.hcmue.edu.vn/"")",Chrome 86.0.4240.111,,,2020-10-26 21:50:19,2020-10-26 21:50:27,7.727s,PASSED
+"click(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/a_Chng trnh o to""))",Chrome 86.0.4240.111,,,2020-10-26 21:50:27,2020-10-26 21:50:28,0.616s,PASSED
+"verifyElementText(findTestObject(""Page_UP Portal  HoChiMinh University of Pedagogy/a_Chun u ra cc ngnh o to K42""), ""Chuẩn đầu ra các ngành đào tạo K42"")",Chrome 86.0.4240.111,,,2020-10-26 21:50:28,2020-10-26 21:50:30,1.747s,PASSED
+closeBrowser(),Chrome 86.0.4240.111,,,2020-10-26 21:50:30,2020-10-26 21:50:33,3.681s,PASSED
+,,,,,,,
+Test Cases/Dangkyhocphan,Chrome 86.0.4240.111,,,2020-10-26 21:50:33,2020-10-26 21:51:14,40.944s,FAILED
+"openBrowser("""")",Chrome 86.0.4240.111,,,2020-10-26 21:50:34,2020-10-26 21:50:37,3.530s,PASSED
+"navigateToUrl(""https://online.hcmue.edu.vn/"")",Chrome 86.0.4240.111,,,2020-10-26 21:50:37,2020-10-26 21:50:41,3.707s,PASSED
+"click(findTestObject(""Object Repository/Page_UP Portal  HoChiMinh University of Pedagogy/span_httpsdkhp.hcmue.edu.vn""))",Chrome 86.0.4240.111,,,2020-10-26 21:50:41,2020-10-26 21:51:14,33.383s,FAILED
